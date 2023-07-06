@@ -24,14 +24,14 @@
     
         -mkt_idx, apy_itm_hist 두 개의 파일로 나뉘어 있음
     
-## 2. 일정
+## 3. 일정
 
     2023.07.01 - 2023.10.12
    
-## 3. 팀명/팀원
+## 4. 팀명/팀원
 
     ksk_miraeasset - 고건호/김도연/송창용
    
-## 4. Link
+## 5. Link
 
     https://miraeassetfesta.com/
