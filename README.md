@@ -3,10 +3,12 @@
 <img src="https://d22mwcuo72mdnl.cloudfront.net/images/2023/top-4.png" width = "90%" height = "90%"> 
 
 ### 1. 주제
+***
 
     고객 및 시장데이터를 활용한 대고객 금융 서비스 제안
   
 ### 2. 데이터 설명
+***
 
     고객데이터   
 
@@ -25,13 +27,16 @@
     -mkt_idx, apy_itm_hist 두 개의 파일로 나뉘어 있음
     
 ### 2. 일정
+***
 
     2023.07.01 - 2023.10.12
    
 ### 3. 팀명/팀원
+***
 
     ksk_miraeasset - 고건호/김도연/송창용
    
 ### 4. Link
+***
 
     https://miraeassetfesta.com/
