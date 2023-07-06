@@ -26,12 +26,12 @@
     
 ### 2. 일정
 
-   2023.07.01 - 2023.10.12
+  2023.07.01 - 2023.10.12
    
 ### 3. 팀명/팀원
 
-   ksk_miraeasset - 고건호/김도연/송창용
+  ksk_miraeasset - 고건호/김도연/송창용
    
 ### 4. Link
 
-   https://miraeassetfesta.com/
+  https://miraeassetfesta.com/
