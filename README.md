@@ -1,4 +1,4 @@
-![image](https://github.com/et007693/ksk-miraeasset/assets/84127378/80fea193-2e88-4d53-ab4e-2d0904e76133)
+
 # 미래에셋증권 빅데이터 페스티벌
 <img src="https://d22mwcuo72mdnl.cloudfront.net/images/2023/top-1.png" width = "90%" height = "90%"> 
 
