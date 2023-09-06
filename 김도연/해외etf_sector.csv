@@ -1,0 +1,526 @@
+Symbol,Name,Sector
+XLY,Consumer Discretionary Select Sector SPDR Fund,consumer-discretionaries
+XLC,Communication Services Select Sector SPDR Fund,consumer-discretionaries
+VCR,Vanguard Consumer Discretionary ETF,consumer-discretionaries
+FXD,First Trust Consumer Discretionary AlphaDEX Fund,consumer-discretionaries
+FDIS,Fidelity MSCI Consumer Discretionary Index ETF,consumer-discretionaries
+TSLL,Direxion Daily TSLA Bull 1.5X Shares ETF,consumer-discretionaries
+IYC, iShares U.S. Consumer Discretionary ETF,consumer-discretionaries
+RSPD,Invesco S&P 500 Equal Weight Consumer Discretionary ETF,consumer-discretionaries
+XRT,SPDR S&P Retail ETF,consumer-discretionaries
+PEJ,Invesco Leisure and Entertainment ETF,consumer-discretionaries
+RXI,iShares Global Consumer Discretionary ETF,consumer-discretionaries
+CHIQ,Global X MSCI China Consumer Discretionary ETF,consumer-discretionaries
+ESPO,VanEck Video Gaming and eSports ETF,consumer-discretionaries
+IBUY,Amplify Online Retail ETF,consumer-discretionaries
+HERO,Global X Video Games & Esports ETF,consumer-discretionaries
+RTH,VanEck Retail ETF,consumer-discretionaries
+INCO,Columbia India Consumer ETF,consumer-discretionaries
+TSLQ,AXS TSLA Bear Daily ETF,consumer-discretionaries
+BETZ,Roundhill Sports Betting & iGaming ETF,consumer-discretionaries
+ONLN,ProShares Online Retail ETF,consumer-discretionaries
+EBIZ,Global X E-commerce ETF,consumer-discretionaries
+BJK,VanEck Gaming ETF,consumer-discretionaries
+FDRV,Fidelity Electric Vehicles and Future Transportation ETF,consumer-discretionaries
+RETL,Direxion Daily Retail Bull 3X Shares,consumer-discretionaries
+CRUZ,Defiance Hotel Airline and Cruise ETF,consumer-discretionaries
+CARZ,First Trust S-Network Future Vehicles & Technology ETF,consumer-discretionaries
+AMZU,Direxion Daily AMZN Bull 1.5X Shares ETF,consumer-discretionaries
+TSLS,Direxion Daily TSLA Bear 1X Shares,consumer-discretionaries
+WANT,Direxion Daily Consumer Discretionary Bull 3X Shares,consumer-discretionaries
+GGLL,Direxion Daily GOOGL Bull 1.5X Shares ETF,consumer-discretionaries
+PSCD,Invesco S&P SmallCap Consumer Discretionary ETF,consumer-discretionaries
+NERD,Roundhill Video Games ETF,consumer-discretionaries
+TRFM,AAM Transformers ETF,consumer-discretionaries
+PEZ,Invesco Dorsey Wright Consumer Cyclicals Momentum ETF,consumer-discretionaries
+UCC,ProShares Ultra Consumer Discretionary,consumer-discretionaries
+OOTO,Direxion Daily Travel & Vacation Bull 2X Shares,consumer-discretionaries
+IEDI, iShares U.S. Consumer Focused ETF,consumer-discretionaries
+BFIT,Global X Health & Wellness ETF,consumer-discretionaries
+BAD,B.A.D. ETF,consumer-discretionaries
+BUYZ,Franklin Disruptive Commerce ETF,consumer-discretionaries
+EMTY,ProShares Decline of the Retail Store ETF,consumer-discretionaries
+VICE,AdvisorShares Vice ETF,consumer-discretionaries
+EVAV,Direxion Daily Electric and Autonomous Vehicles Bull 2X Shares,consumer-discretionaries
+HLGE,Hartford Longevity Economy ETF,consumer-discretionaries
+TSL,GraniteShares 1.25x Long Tesla Daily ETF GraniteShares 1.25x Long TSLA Daily ETF,consumer-discretionaries
+JRNY,ALPS Global Travel Beneficiaries ETF,consumer-discretionaries
+FLYU,MicroSectors Travel 3x Leveraged ETN,consumer-discretionaries
+KBUY,KraneShares CICC China Consumer Leaders Index ETF,consumer-discretionaries
+ISHP,First Trust S-Network E-Commerce ETF,consumer-discretionaries
+NBCC,Neuberger Berman Next Generation Connected Consumer ETF,consumer-discretionaries
+XLE,Energy Select Sector SPDR Fund,energy
+VDE,Vanguard Energy ETF,energy
+AMLP,Alerian MLP ETF,energy
+XOP,SPDR S&P Oil & Gas Exploration & Production ETF,energy
+ICLN,iShares Global Clean Energy ETF,energy
+AMJ,J.P. Morgan Alerian MLP Index ETN,energy
+OIH,VanEck Oil Services ETF,energy
+EMLP,First Trust North American Energy Infrastructure Fund,energy
+IXC,iShares Global Energy ETF,energy
+NRGU,MicroSectors U.S. Big Oil Index 3X Leveraged ETN,energy
+FENY,Fidelity MSCI Energy Index ETF,energy
+TAN,Invesco Solar ETF,energy
+QCLN,First Trust NASDAQ Clean Edge Green Energy Index Fund,energy
+MLPA,Global X MLP ETF,energy
+IYE,iShares U.S. Energy ETF,energy
+MLPX,Global X MLP & Energy Infrastructure ETF,energy
+IEO,iShares U.S. Oil & Gas Exploration & Production ETF,energy
+GUSH,Direxion Daily S&P Oil & Gas Exp. & Prod. Bull 2X Shares,energy
+FXN,First Trust Energy AlphaDEX Fund,energy
+PBW,Invesco WilderHill Clean Energy ETF,energy
+FCG,First Trust Natural Gas ETF,energy
+RSPG,Invesco S&P 500 Equal Weight Energy ETF,energy
+TPYP,Tortoise North American Pipeline Fund,energy
+LCTD,BlackRock World ex U.S. Carbon Transition Readiness ETF,energy
+ACES,ALPS Clean Energy ETF,energy
+ERX,Direxion Daily Energy Bull 2X Shares,energy
+XES,SPDR S&P Oil & Gas Equipment & Services ETF,energy
+DRLL,Strive U.S. Energy ETF,energy
+AMZA,InfraCap MLP ETF,energy
+CNRG,SPDR S&P Kensho Clean Power ETF,energy
+ATMP,Barclays ETN+ Select MLP ETN,energy
+ERTH,Invesco MSCI Sustainable Future ETF,energy
+FTXN,First Trust Nasdaq Oil & Gas ETF,energy
+PSCE,Invesco S&P SmallCap Energy ETF,energy
+NZAC,SPDR MSCI ACWI Climate Paris Aligned ETF,energy
+FAN,First Trust Global Wind Energy ETF,energy
+IEZ,iShares U.S. Oil Equipment & Services ETF,energy
+UMI,USCF Midstream Energy Income Fund ETF,energy
+MLPB,ETRACS Alerian MLP Infrastructure Index ETN Series B,energy
+SMOG,VanEck Low Carbon Energy ETF,energy
+PBD,Invesco Global Clean Energy ETF,energy
+PXE,Invesco Energy Exploration & Production ETF,energy
+NETZ,Engine No 1 Transform Climate ETF,energy
+DIG,ProShares Ultra Energy,energy
+ENFR,Alerian Energy Infrastructure ETF,energy
+FILL,iShares MSCI Global Energy Producers ETF,energy
+NRGD,MicroSectors U.S. Big Oil Index -3X Inverse Leveraged ETN,energy
+NZUS,SPDR MSCI USA Climate Paris Aligned ETF,energy
+PXI,Invesco Dorsey Wright Energy Momentum ETF,energy
+NLR,VanEck Uranium+Nuclear Energy ETF,energy
+DRIP,Direxion Daily S&P Oil & Gas Exp. & Prod. Bear 2X Shares,energy
+CTEC,Global X CleanTech ETF,energy
+AMNA,ETRACS Alerian Midstream Energy Index ETN,energy
+AMUB,ETRACS Alerian MLP Index ETN Class B,energy
+AMTR,ETRACS Alerian Midstream Energy Total Return Index ETN,energy
+KWT,iShares MSCI Kuwait ETF,energy
+RNRG,Global X Renewable Energy Producers ETF,energy
+MLPR,ETRACS Quarterly Pay 1.5x Leveraged Alerian MLP Index ETN,energy
+HYDR,Global X Hydrogen ETF,energy
+USAI,Pacer American Energy Independence ETF,energy
+AMND,"ETRACS Alerian Midstream Energy High Dividend Index ETN due July 19, 2050",energy
+EINC,VanEck Energy Income ETF,energy
+PXJ,Invesco Oil & Gas Services ETF,energy
+CRAK,VanEck Oil Refiners ETF,energy
+FRNW,Fidelity Clean Energy ETF,energy
+MLPO,Credit Suisse S&P MLP Index ETN,energy
+HDRO,Defiance Next Gen H2 ETF,energy
+HJEN,Direxion Hydrogen ETF,energy
+ERY,Direxion Daily Energy Bear 2X Shares,energy
+NBCT,Neuberger Berman Carbon Transition Infrastructure ETF,energy
+JZRO,Janus Henderson Net Zero Transition Resources ETF,energy
+DUG,ProShares UltraShort Energy,energy
+GCLN,Goldman Sachs Bloomberg Clean Energy Equity ETF,energy
+VCLN,Virtus Duff & Phelps Clean Energy ETF,energy
+RAYS,Global X Solar ETF,energy
+XLF,Financial Select Sector SPDR Fund,financials
+VFH,Vanguard Financials ETF,financials
+KRE,SPDR S&P Regional Banking ETF,financials
+IYF,iShares U.S. Financials ETF,financials
+FAS,Direxion Daily Financial Bull 3X Shares,financials
+KBWB,Invesco KBW Bank ETF,financials
+KBE,SPDR S&P Bank ETF,financials
+EUFN,iShares MSCI Europe Financials ETF,financials
+FNCL,Fidelity MSCI Financials Index ETF,financials
+IYG,iShares U.S. Financial Services ETF,financials
+FXO,First Trust Financials AlphaDEX Fund,financials
+BIZD,VanEck BDC Income ETF,financials
+IAT,iShares U.S. Regional Banks ETF,financials
+UYG,ProShares Ultra Financials,financials
+DPST,Direxion Daily Regional Banks Bull 3X Shares,financials
+KIE,SPDR S&P Insurance ETF,financials
+IXG,iShares Global Financials ETF,financials
+IAI,iShares U.S. Broker-Dealers & Securities Exchanges ETF,financials
+KBWD,Invesco KBW High Dividend Yield Financial ETF,financials
+FINX,Global X FinTech ETF,financials
+IAK,iShares U.S. Insurance ETF,financials
+RSPF,Invesco S&P 500 Equal Weight Financials ETF,financials
+KCE,SPDR S&P Capital Markets ETF,financials
+PSP,Invesco Global Listed Private Equity ETF,financials
+GREK,Global X MSCI Greece ETF,financials
+XLV,Health Care Select Sector SPDR Fund,healthcare
+VHT,Vanguard Health Care ETF,healthcare
+IBB,iShares Biotechnology ETF,healthcare
+XBI,SPDR S&P Biotech ETF,healthcare
+IHI,iShares U.S. Medical Devices ETF,healthcare
+IXJ,iShares Global Healthcare ETF,healthcare
+IYH,iShares U.S. Healthcare ETF,healthcare
+FHLC,Fidelity MSCI Health Care Index ETF,healthcare
+ARKG,ARK Genomic Revolution ETF,healthcare
+FXH,First Trust Health Care AlphaDEX Fund,healthcare
+FBT,First Trust NYSE Arca Biotechnology Index Fund,healthcare
+LABU,Direxion Daily S&P Biotech Bull 3x Shares,healthcare
+RSPH,Invesco S&P 500 Equal Weight Health Care ETF,healthcare
+IHF,iShares U.S. Healthcare Providers ETF,healthcare
+BBH,VanEck Biotech ETF,healthcare
+XHE,SPDR S&P Health Care Equipment ETF,healthcare
+PPH,VanEck Pharmaceutical ETF,healthcare
+IHE,iShares U.S. Pharmaceuticals ETF,healthcare
+PJP,Invesco Pharmaceuticals ETF,healthcare
+PSCH,Invesco S&P SmallCap Health Care ETF,healthcare
+PBE,Invesco Biotechnology & Genome ETF,healthcare
+XPH,SPDR S&P Pharmaceuticals ETF,healthcare
+CURE,Direxion Daily Healthcare Bull 3x Shares,healthcare
+PTH,Invesco Dorsey Wright Healthcare Momentum ETF,healthcare
+GNOM,Global X Genomics & Biotechnology ETF,healthcare
+IDNA,iShares Genomics Immunology and Healthcare ETF,healthcare
+GDOC,Goldman Sachs Future Health Care Equity ETF,healthcare
+XHS,SPDR S&P Health Care Services ETF,healthcare
+SBIO,ALPS Medical Breakthroughs ETF,healthcare
+EDOC,Global X Telemedicine & Digital Health ETF Registered,healthcare
+BIB,ProShares Ultra Nasdaq Biotechnology,healthcare
+HTEC,ROBO Global Healthcare Technology and Innovation ETF,healthcare
+RXL,ProShares Ultra Health Care,healthcare
+PINK,Simplify Health Care ETF,healthcare
+KURE,KraneShares MSCI All China Health Care Index ETF,healthcare
+LABD,Direxion Daily S&P Biotech Bear 3x Shares,healthcare
+AGNG,Global X Aging Population ETF,healthcare
+BTEC,Principal Healthcare Innovators ETF,healthcare
+POTX,Global X Cannabis ETF,healthcare
+VMOT,Alpha Architect Value Momentum Trend ETF,healthcare
+CNBS,Amplify Seymour Cannabis ETF,healthcare
+FTXH,First Trust Nasdaq Pharmaceuticals ETF,healthcare
+IBBQ,Invesco Nasdaq Biotechnology ETF,healthcare
+BBP,Virtus LifeSci Biotech Products ETF,healthcare
+GERM,ETFMG Treatments Testing and Advancements ETF,healthcare
+PILL,Direxion Daily Pharmaceutical & Medical Bull 3X Shares,healthcare
+BBC,Virtus LifeSci Biotech Clinical Trials ETF,healthcare
+CNCR,Range Cancer Therapeutics ETF,healthcare
+HELX,Franklin Genomic Advancements ETF,healthcare
+FDHT,Fidelity Digital Health ETF,healthcare
+XLI,Industrial Select Sector SPDR Fund,industrials
+ITA,iShares U.S. Aerospace & Defense ETF,industrials
+VIS,Vanguard Industrials ETF,industrials
+PPA,Invesco Aerospace & Defense ETF,industrials
+PHO,Invesco Water Resources ETF,industrials
+FXR,First Trust Industrials/Producer Durables AlphaDEX Fund,industrials
+JETS,U.S. Global Jets ETF,industrials
+XAR,SPDR S&P Aerospace & Defense ETF,industrials
+FIW,First Trust Water ETF,industrials
+IYJ,iShares U.S. Industrials ETF,industrials
+IYT,iShares US Transportation ETF,industrials
+CGW,Invesco S&P Global Water Index ETF,industrials
+FIDU,Fidelity MSCI Industrial Index ETF,industrials
+RSPN,Invesco S&P 500 Equal Weight Industrials ETF,industrials
+AIRR,First Trust RBA American Industrial Renaissance ETF,industrials
+EXI,iShares Global Industrials ETF,industrials
+ARKX,ARK Space Exploration & Innovation ETF,industrials
+PIO,Invesco Global Water ETF,industrials
+XTN,SPDR S&P Transportation ETF,industrials
+PRN,Invesco Dorsey Wright Industrials Momentum ETF,industrials
+DFEN,Direxion Daily Aerospace & Defense Bull 3X Shares,industrials
+PSCI,Invesco S&P SmallCap Industrials ETF,industrials
+AWAY,ETFMG Travel Tech ETF,industrials
+HDGE,AdvisorShares Ranger Equity Bear ETF,industrials
+EVX,VanEck Environmental Services ETF,industrials
+BDRY,Breakwave Dry Bulk Shipping ETF,industrials
+FTXR,First Trust Nasdaq Transportation ETF,industrials
+HAIL,SPDR S&P Kensho Smart Mobility ETF,industrials
+EBLU,Ecofin Global Water ESG Fund,industrials
+FITE,SPDR S&P Kensho Future Security ETF,industrials
+TPOR,Direxion Daily Transportation Bull 3X Shares,industrials
+DUSL,Direxion Daily Industrials Bull 3X Shares,industrials
+UXI,ProShares Ultra Industrials,industrials
+TEMP,JPMorgan Climate Change Solutions ETF,industrials
+BOAT,SonicShares Global Shipping ETF,industrials
+ROKT,SPDR S&P Kensho Final Frontiers ETF,industrials
+MOTO,SmartETFs Smart Transportation & Technology ETF,industrials
+AQWA,Global X Clean Water ETF,industrials
+RFEU,First Trust RiverFront Dynamic Europe ETF,industrials
+CLNR,IQ Cleaner Transport ETF,industrials
+IWTR,iShares MSCI Water Management Multisector ETF,industrials
+CHII,Global X MSCI China Industrials ETF,industrials
+EFRA,iShares Environmental Infrastructure and Industrials ETF,industrials
+JETD,MAX Airlines -3X Inverse Leveraged ETNs,industrials
+BECO,BlackRock Future Climate and Sustainable Economy ETF,industrials
+SEA,U.S. Global Sea to Sky Cargo ETF,industrials
+JETU,MAX Airlines 3X Leveraged ETNs,industrials
+SIJ,ProShares UltraShort Industrials,industrials
+SUPL,ProShares Supply Chain Logistics ETF,industrials
+SHPP,Pacer Industrials and Logistics ETF,industrials
+GDX,VanEck Gold Miners ETF,materials
+GUNR,FlexShares Morningstar Global Upstream Natural Resources Index Fund,materials
+XLB,Materials Select Sector SPDR Fund,materials
+GDXJ,VanEck Junior Gold Miners ETF,materials
+GNR,SPDR S&P Global Natural Resources ETF,materials
+VAW,Vanguard Materials ETF,materials
+LIT,Global X Lithium & Battery Tech ETF,materials
+ITB,iShares U.S. Home Construction ETF,materials
+URA,Global X Uranium ETF,materials
+XME,SPDR S&P Metals & Mining ETF,materials
+COPX,Global X Copper Miners ETF,materials
+PICK,iShares MSCI Global Metals & Mining Producers ETF,materials
+XHB,SPDR S&P Homebuilders ETF,materials
+MOO,VanEck Agribusiness ETF,materials
+GRID,First Trust Nasdaq Clean Edge Smart GRID Infrastructure Index,materials
+URNM,Sprott Uranium Miners ETF,materials
+INFL,Horizon Kinetics Inflation Beneficiaries ETF,materials
+SIL,Global X Silver Miners ETF,materials
+IYM,iShares U.S. Basic Materials ETF,materials
+SILJ,ETFMG Prime Junior Silver Miners ETFMG Prime Junior Silver Miners Fund,materials
+IGE,iShares North American Natural Resources ETF,materials
+NANR,SPDR S&P North American Natural Resources ETF,materials
+FXZ,First Trust Materials AlphaDEX Fund,materials
+REMX,VanEck Rare Earth/Strategic Metals ETF,materials
+FMAT,Fidelity MSCI Materials Index ETF,materials
+NUGT,Direxion Daily Gold Miners Index Bull 2x Shares,materials
+RING,iShares MSCI Global Gold Miners ETF,materials
+JNUG,Direxion Daily Junior Gold Miners Index Bull 2x Shares,materials
+RSPM,Invesco S&P 500 Equal Weight Materials ETF,materials
+MXI,iShares Global Materials ETF,materials
+PKB,Invesco Building & Construction ETF,materials
+NAIL,Direxion Daily Homebuilders & Supplies Bull 3X Shares,materials
+FTRI,First Trust Indxx Global Natural Resources Income ETF,materials
+SGDM,Sprott Gold Miners ETF,materials
+VEGI,iShares MSCI Agriculture Producers ETF,materials
+WOOD,iShares Global Timber & Forestry ETF,materials
+SLVP,iShares MSCI Global Silver Miners ETF,materials
+PYZ,Invesco Dorsey Wright Basic Materials Momentum ETF,materials
+BATT,Amplify Lithium & Battery Technology ETF,materials
+HAP,VanEck Natural Resources ETF,materials
+SLX,VanEck Steel ETF,materials
+GDXU,MicroSectors Gold Miners 3X Leveraged ETN,materials
+DUST,Direxion Daily Gold Miners Index Bear 2x Shares,materials
+SGDJ,Sprott Junior Gold Miners ETF,materials
+GOAU,US Global GO GOLD and Precious Metal Miners ETF,materials
+JDST,Direxion Daily Junior Gold Miners Index Bear 2X Shares,materials
+GDXD,MicroSectors Gold Miners -3X Inverse Leveraged ETNs,materials
+CUT,Invesco MSCI Global Timber ETF,materials
+UYM,ProShares Ultra Materials,materials
+GRES,IQ Global Resources ETF,materials
+VNQ,Vanguard Real Estate ETF,real-estate
+SCHH,Schwab US REIT ETF,real-estate
+XLRE,Real Estate Select Sector SPDR Fund,real-estate
+VNQI,Vanguard Global ex-U.S. Real Estate ETF,real-estate
+REET,iShares Global REIT ETF,real-estate
+IYR,iShares U.S. Real Estate ETF,real-estate
+ICF,iShares Cohen & Steers REIT ETF,real-estate
+USRT,iShares Core U.S. REIT ETF,real-estate
+RWR,SPDR Dow Jones REIT ETF,real-estate
+RWO,SPDR Dow Jones Global Real Estate ETF,real-estate
+FREL,Fidelity MSCI Real Estate Index ETF,real-estate
+DFGR,Dimensional Global Real Estate ETF,real-estate
+BBRE,JPMorgan BetaBuilders MSCI US REIT ETF,real-estate
+REM,iShares Mortgage Real Estate ETF,real-estate
+REZ,iShares Residential and Multisector Real Estate ETF,real-estate
+HAUZ,DBX ETF Trust – Xtrackers International Real Estate ETF,real-estate
+JPRE,JPMorgan Realty Income ETF,real-estate
+RWX,SPDR Dow Jones International Real Estate ETF,real-estate
+GQRE,FlexShares Global Quality Real Estate Index Fund,real-estate
+SRET,Global X SuperDividend REIT ETF,real-estate
+KBWY,Invesco KBW Premium Yield Equity REIT ETF,real-estate
+MORT,VanEck Mortgage REIT Income ETF,real-estate
+INDS,Pacer Industrial Real Estate ETF,real-estate
+DRV,Direxion Daily Real Estate Bear 3X Shares,real-estate
+IFGL,iShares International Developed Real Estate ETF,real-estate
+FRI,First Trust S&P REIT Index Fund,real-estate
+PPTY,US Diversified Real Estate ETF,real-estate
+PSR,Invesco Active U.S. Real Estate Fund,real-estate
+RSPR,Invesco S&P 500 Equal Weight Real Estate ETF,real-estate
+NETL,NETLease Corporate Real Estate ETF,real-estate
+SPRE,SP Funds S&P Global REIT Sharia ETF,real-estate
+URE,ProShares Ultra Real Estate,real-estate
+SRS,ProShares UltraShort Real Estate,real-estate
+NURE,Nuveen Short-Term REIT ETF,real-estate
+DRN,Direxion Daily Real Estate Bull 3x Shares,real-estate
+WPS,iShares International Developed Property ETF,real-estate
+REK,ProShares Short Real Estate,real-estate
+GREI,Goldman Sachs Future Real Estate and Infrastructure Equity ETF,real-estate
+BLDG,Cambria Global Real Estate ETF,real-estate
+VRAI,Virtus Real Asset Income ETF,real-estate
+ROOF,IQ CBRE NextGen Real Estate ETF,real-estate
+REIT,ALPS Active REIT ETF,real-estate
+FPRO,Fidelity Real Estate Investment ETF,real-estate
+RDOG,ALPS REIT Dividend Dogs ETF,real-estate
+ERET,iShares Environmentally Aware Real Estate ETF,real-estate
+RITA,ETFB Green SRI REITs ETF,real-estate
+CHIR,Global X MSCI China Real Estate ETF,real-estate
+BYRE,Principal Real Estate Active Opportunities ETF,real-estate
+JRE,Janus Henderson U.S. Real Estate ETF,real-estate
+HAUS,Residential REIT ETF ,real-estate
+QQQ,Invesco QQQ Trust Series I,technology
+VGT,Vanguard Information Technology ETF,technology
+XLK,Technology Select Sector SPDR Fund,technology
+IYW,iShares U.S. Technology ETF,technology
+SMH,VanEck Semiconductor ETF,technology
+SOXX,iShares Semiconductor ETF,technology
+ARKK,ARK Innovation ETF,technology
+FTEC,Fidelity MSCI Information Technology Index ETF,technology
+SOXL,Direxion Daily Semiconductor Bull 3x Shares,technology
+IGV,iShares Expanded Tech-Software Sector ETF,technology
+KWEB,KraneShares CSI China Internet ETF,technology
+FDN,First Trust Dow Jones Internet Index Fund,technology
+CIBR,First Trust NASDAQ Cybersecurity ETF,technology
+IXN,iShares Global Tech ETF,technology
+IGM,iShares Expanded Tech Sector ETF,technology
+XT,iShares Exponential Technologies ETF,technology
+RSPT,Invesco S&P 500 Equal Weight Technology ETF,technology
+SKYY,First Trust Cloud Computing ETF,technology
+TECL,Direxion Daily Technology Bull 3X Shares,technology
+FNGU,MicroSectors FANG+™ Index 3X Leveraged ETN,technology
+TDIV,First Trust NASDAQ Technology Dividend Index Fund,technology
+QTEC,First Trust NASDAQ-100 Technology Sector Index Fund,technology
+XSD,SPDR S&P Semiconductor ETF,technology
+HACK,ETFMG Prime Cyber Security ETFMG Prime Cyber Security Fund,technology
+ROBO,ROBO Global Robotics & Automation Index ETF,technology
+ARKW,ARK Next Generation Internet ETF,technology
+FTXL,First Trust Nasdaq Semiconductor ETF,technology
+FXL,First Trust Technology AlphaDEX Fund,technology
+SOXS,Direxion Daily Semiconductor Bear 3x Shares,technology
+CQQQ,Invesco China Technology ETF,technology
+WCLD,WisdomTree Cloud Computing Fund,technology
+PSI,Invesco Semiconductors ETF,technology
+BUG,Global X Cybersecurity ETF,technology
+BULZ,MicroSectors Solactive FANG & Innovation 3X Leveraged ETN,technology
+IHAK,iShares Cybersecurity & Tech ETF,technology
+FIVG,Defiance Next Gen Connectivity ETF,technology
+ROM,ProShares Ultra Technology,technology
+PNQI,Invesco NASDAQ Internet ETF,technology
+CLOU,Global X Cloud Computing ETF,technology
+XNTK,SPDR NYSE Technology ETF,technology
+AIQ,Global X Artificial Intelligence & Technology ETF,technology
+EMQQ,EMQQ The Emerging Markets Internet & Ecommerce ETF,technology
+IRBO,iShares Robotics and Artificial Intelligence Multisector ETF,technology
+BLOK,Amplify Transformational Data Sharing ETF,technology
+METV,Roundhill Ball Metaverse ETF,technology
+CWEB,Direxion Daily CSI China Internet Index Bull 2x Shares,technology
+IPAY,ETFMG Prime Mobile Payments ETFMG Prime Mobile Payments Fund,technology
+QQH,HCM Defender 100 Index ETF,technology
+PTF,Invesco Dorsey Wright Technology Momentum ETF,technology
+PSCT,Invesco S&P SmallCap Information Technology ETF,technology
+GINN,Goldman Sachs Innovate Equity ETF,technology
+USD,ProShares Ultra Semiconductors,technology
+XSW,SPDR S&P Software & Services ETF,technology
+SNSR,Global X Internet of Things ETF,technology
+NVDL,GraniteShares 1.5x Long NVDA Daily ETF,technology
+TDV,ProShares S&P Technology Dividend Aristocrats ETF,technology
+FNGD,MicroSectors FANG+™ Index -3X Inverse Leveraged ETN,technology
+SARK,AXS Short Innovation Daily ETF,technology
+FNGO,MicroSectors FANG+ Index 2X Leveraged ETNs,technology
+QTUM,Defiance Quantum ETF,technology
+WEBL,Direxion Daily Dow Jones Internet Bull 3X Shares,technology
+PRNT,3D Printing ETF,technology
+IETC, iShares U.S. Tech Independence Focused ETF,technology
+WTAI,WisdomTree Artificial Intelligence and Innovation Fund,technology
+SOXQ,Invesco PHLX Semiconductor ETF,technology
+OGIG,ALPS O'Shares Global Internet Giants ETF,technology
+SOCL,Global X Social Media ETF,technology
+TECS,Direxion Daily Technology Bear 3X Shares,technology
+IEUS,iShares MSCI Europe Small-Cap ETF,technology
+MINV,Matthews Asia Innovators Active ETF,technology
+LEGR,First Trust Indxx Innovative Transaction & Process ETF,technology
+NVDS,AXS 1.25X NVDA Bear Daily ETF,technology
+DTEC,ALPS Disruptive Technologies ETF,technology
+XITK,SPDR FactSet Innovative Technology ETF,technology
+IZRL,ARK Israel Innovative Technology ETF,technology
+ITEQ,BlueStar Israel Technology ETF BlueStar Israel Technology Fund,technology
+KLIP,KraneShares China Internet and Covered Call Strategy ETF,technology
+BLCN,Siren ETF Trust Siren Nasdaq NexGen Economy ETF,technology
+BKCH,Global X Blockchain ETF,technology
+THNQ,ROBO Global Artificial Intelligence ETF,technology
+TARK,AXS 2X Innovation ETF,technology
+BUZZ,VanEck Social Sentiment ETF,technology
+ISRA,VanEck Israel ETF,technology
+IGN,iShares North American Tech-Multimedia Networking ETF,technology
+DRUP,GraniteShares Nasdaq Select Disruptors ETF,technology
+GAMR,Wedbush ETFMG Video Game Tech ETF Wedbush ETFMG Video Game Tech Fund,technology
+DAPP,VanEck Digital Transformation ETF,technology
+AAPU,Direxion Daily AAPL Bull 1.5X Shares,technology
+FCLD,Fidelity Cloud Computing ETF,technology
+FDIG,Fidelity Crypto Industry and Digital Payments ETF,technology
+MSFU,Direxion Daily MSFT Bull 1.5X Shares ETF,technology
+LOUP,Innovator Deepwater Frontier Tech ETF,technology
+KSTR,KraneShares SSE Star Market 50 Index ETF,technology
+WCBR,WisdomTree Cybersecurity Fund,technology
+MOON,Direxion Moonshot Innovators ETF,technology
+UBOT,"Direxion Daily Robotics, Artificial Intelligence & Automation Index Bull 2X Shares",technology
+LRNZ,"TrueShares Technology, AI & Deep Learning ETF",technology
+VPN,Global X Data Center REITs & Digital Infrastructure ETF,technology
+WFH,Direxion Work From Home ETF,technology
+WEBS,Direxion Daily Dow Jones Internet Bear 3X Shares,technology
+SEMI,Columbia Seligman Semiconductor and Technology ETF,technology
+IVES,Wedbush ETFMG Global Cloud Technology ETF,technology
+WUGI,AXS Esoterica NextG Economy ETF,technology
+AAPD,Direxion Daily AAPL Bear 1X Shares ETF,technology
+XWEB,SPDR S&P Internet ETF,technology
+ARMR,Armor US Equity Index ETF,technology
+FNGG,Direxion Daily NYSE FANG+ Bull 2X Shares,technology
+IQM,Franklin Intelligent Machines ETF,technology
+FMQQ,FMQQ The Next Frontier Internet & Ecommerce ETF,technology
+CRPT,First Trust SkyBridge Crypto Industry & Digital Economy ETF,technology
+FMET,Fidelity Metaverse ETF,technology
+TIME,Clockwise Core Equity & Innovation ETF,technology
+WGMI,Valkyrie Bitcoin Miners ETF,technology
+BERZ,MicroSectors Solactive FANG & Innovation -3X Inverse Leveraged ETN,technology
+BTEK,Future Tech ETF,technology
+KOIN,Capital Link Global Fintech Leaders ETF,technology
+KFVG,KraneShares CICC China 5G & Semiconductor Index ETF,technology
+FBL,GraniteShares 1.5x Long Meta Daily ETF,technology
+CHIK,Global X MSCI China Information Technology ETF,technology
+KEMQ,KraneShares Emerging Markets Consumer Technology Index ETF,technology
+NBDS,Neuberger Berman Disrupters ETF,technology
+SPRX,Spear Alpha ETF,technology
+CONL,GraniteShares 1.5x Long Coinbase Daily ETF,technology
+FFND,Future Fund Active ETF,technology
+CLDL,Direxion Daily Cloud Computing Bull 2X Shares,technology
+INQQ,India Internet & Ecommerce ETF,technology
+IBLC,iShares Blockchain and Tech ETF,technology
+MSFD,Direxion Daily MSFT Bear 1X Shares ETF,technology
+TCHI,iShares MSCI China Multisector Tech ETF,technology
+KTEC,KraneShares Hang Seng TECH Index ETF,technology
+BABX,GraniteShares 1.75x Long BABA Daily ETF,technology
+SSG,Proshares Ultrashort Semiconductors,technology
+XPND,First Trust Expanded Technology ETF,technology
+VERS,ProShares Metaverse ETF,technology
+IDAT,iShares Future Cloud 5G and Tech ETF,technology
+AAPB,GraniteShares 1.75x Long AAPL Daily ETF,technology
+GFOF,Grayscale Future of Finance ETF,technology
+TRFK,Pacer Data and Digital Revolution ETF,technology
+GAST,Gabelli Automation ETF,technology
+BNGE,First Trust S-Network Streaming and Gaming ETF,technology
+BPAY,BlackRock Future Financial and Technology ETF,technology
+SATO,Invesco Alerian Galaxy Crypto Economy ETF,technology
+REW,ProShares UltraShort Technology,technology
+XDAT,Franklin Exponential Data ETF,technology
+DAT,ProShares Big Data Refiners ETF,technology
+DGIN,VanEck Digital India ETF,technology
+MEME,Roundhill MEME ETF,technology
+IWFH,iShares Virtual Work and Life Multisector ETF,technology
+TINY,ProShares Nanotechnology ETF,technology
+JFWD,Jacob Forward ETF,technology
+XLU,Utilities Select Sector SPDR Fund,utilities
+PAVE,Global X US Infrastructure Development ETF,utilities
+VPU,Vanguard Utilities ETF,utilities
+IGF,iShares Global Infrastructure ETF,utilities
+NFRA,FlexShares STOXX Global Broad Infrastructure Index Fund,utilities
+IFRA,iShares U.S. Infrastructure ETF,utilities
+FUTY,Fidelity MSCI Utilities Index ETF,utilities
+IDU,iShares U.S. Utilities ETF,utilities
+GII,SPDR S&P Global Infrastructure ETF,utilities
+RSPU,Invesco S&P 500 Equal Weight Utilities ETF,utilities
+FXU,First Trust Utilities AlphaDEX Fund,utilities
+TOLZ,ProShares DJ Brookfield Global Infrastructure ETF,utilities
+JXI,iShares Global Utilities ETF,utilities
+UTES,Virtus Reaves Utilities ETF,utilities
+PUI,Invesco Dorsey Wright Utilities Momentum ETF,utilities
+ECLN,First Trust EIP Carbon Impact ETF,utilities
+UTSL,Direxion Daily Utilities Bull 3X Shares,utilities
+BLLD,JPMorgan Sustainable Infrastructure ETF,utilities
+EMIF,iShares Emerging Markets Infrastructure ETF,utilities
+PSCU,Invesco S&P SmallCap Utilities & Communication Services ETF,utilities
+INFR,ClearBridge Sustainable Infrastructure ETF,utilities
+UPW,ProShares Ultra Utilities,utilities
+RBLD,First Trust Alerian US NextGen Infrastructure ETF,utilities
+GLIF,AGF Global Infrastructure ETF,utilities
+SDP,ProShares UltraShort Utilities,utilities
