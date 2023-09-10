@@ -89,8 +89,6 @@ if __name__ == '__main__':
         recommend_data = recommend_items(model, dataset, args)
         recommend_data.to_csv('./%s.csv'% args.dataset, index=False)
 
-
-
     bce_criterion = torch.nn.BCEWithLogitsLoss() 
     adam_optimizer = torch.optim.Adam(model.parameters(), lr=args.lr, betas=(0.9, 0.98))
     
@@ -138,7 +136,6 @@ if __name__ == '__main__':
             fname = fname.format(args.num_epochs, args.lr, args.num_blocks, args.num_heads, args.hidden_units, args.maxlen)
             torch.save(model.state_dict(), os.path.join(folder, fname))
     
-
     f.close()
     sampler.close()
     result.to_csv('./result/%s.csv'% args.dataset, index=False)

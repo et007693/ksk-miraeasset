@@ -6,6 +6,8 @@ import numpy as np
 import pandas as pd
 from collections import defaultdict
 from multiprocessing import Process, Queue
+from tqdm import tqdm
+
 
 def random_neq(l, r, s):
     t = np.random.randint(l, r)
@@ -15,7 +17,6 @@ def random_neq(l, r, s):
 
 def sample_function(user_train, user_train_side, usernum, itemnum,item_side, batch_size, maxlen, result_queue, SEED):
     def sample():
-
         user = np.random.randint(1, usernum + 1)
         while len(user_train[user]) <= 1: user = np.random.randint(1, usernum + 1)
 
@@ -61,7 +62,6 @@ def sample_function(user_train, user_train_side, usernum, itemnum,item_side, bat
             one_batch.append(sample())
 
         result_queue.put(zip(*one_batch))
-
 
 class WarpSampler(object):
     def __init__(self, User, user_train_side, usernum, itemnum, item_side, batch_size=64, maxlen=10, n_workers=1):
@@ -289,9 +289,6 @@ def recommend_items(model, dataset, args):
     train_side, valid_side, test_side, item_side,
     umap, smap] = copy.deepcopy(dataset)
 
-    smap = {v: k for k, v in smap.items()}
-    umap = {v: k for k, v in umap.items()}
-
     # train, valid, test 합치기 
     for key, value in valid.items():
         if key in train:
@@ -312,7 +309,7 @@ def recommend_items(model, dataset, args):
     recommended_items4 = []
     recommended_items5 = []
 
-    for u in user:
+    for u in tqdm(user):
         if len(train[u]) < 1 or len(test[u]) < 1: continue
 
         seq = np.zeros([args.maxlen], dtype=np.int32)
@@ -341,25 +338,25 @@ def recommend_items(model, dataset, args):
         predictions = predictions[0]
 
         rank1 = predictions.argsort().argsort()[0].item()
-        # rank2 = predictions.argsort().argsort()[1].item()
-        # rank3 = predictions.argsort().argsort()[2].item()
-        # rank4 = predictions.argsort().argsort()[3].item()
-        # rank5 = predictions.argsort().argsort()[4].item()
+        rank2 = predictions.argsort().argsort()[1].item()
+        rank3 = predictions.argsort().argsort()[2].item()
+        rank4 = predictions.argsort().argsort()[3].item()
+        rank5 = predictions.argsort().argsort()[4].item()
 
         recommended_items1.append(rank1)
-        # recommended_items2.append(rank2)
-        # recommended_items3.append(rank3)
-        # recommended_items4.append(rank4)
-        # recommended_items5.append(rank5)
+        recommended_items2.append(rank2)
+        recommended_items3.append(rank3)
+        recommended_items4.append(rank4)
+        recommended_items5.append(rank5)
     
-    # recommended_data = pd.DataFrame({'item1' : recommended_items1, 'item2' : recommended_items2, 'item3' : recommended_items3, 'item4' : recommended_items4, 'item5' : recommended_items5}).reset_index()
+    recommended_data = pd.DataFrame({'item1' : recommended_items1, 'item2' : recommended_items2, 'item3' : recommended_items3, 'item4' : recommended_items4, 'item5' : recommended_items5}).reset_index()
     recommended_data = pd.DataFrame({'item1' : recommended_items1}).reset_index()
 
     recommended_data['index'] = recommended_data['index'].map(umap)
     recommended_data['item1'] = recommended_data['item1'].map(smap)
-    # recommended_data['item2'] = recommended_data['item2'].map(smap)
-    # recommended_data['item3'] = recommended_data['item3'].map(smap)
-    # recommended_data['item4'] = recommended_data['item4'].map(smap)
-    # recommended_data['item5'] = recommended_data['item5'].map(smap)
+    recommended_data['item2'] = recommended_data['item2'].map(smap)
+    recommended_data['item3'] = recommended_data['item3'].map(smap)
+    recommended_data['item4'] = recommended_data['item4'].map(smap)
+    recommended_data['item5'] = recommended_data['item5'].map(smap)
 
     return recommended_data
