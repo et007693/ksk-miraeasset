@@ -77,7 +77,7 @@ class WarpSampler(object):
                                                       batch_size,
                                                       maxlen,
                                                       self.result_queue,
-                                                      np.random.randint(2e9)
+                                                      32
                                                       )))
             self.processors[-1].daemon = True
             self.processors[-1].start()
@@ -350,7 +350,6 @@ def recommend_items(model, dataset, args):
         recommended_items5.append(rank5)
     
     recommended_data = pd.DataFrame({'item1' : recommended_items1, 'item2' : recommended_items2, 'item3' : recommended_items3, 'item4' : recommended_items4, 'item5' : recommended_items5}).reset_index()
-    recommended_data = pd.DataFrame({'item1' : recommended_items1}).reset_index()
 
     recommended_data['index'] = recommended_data['index'].map(umap)
     recommended_data['item1'] = recommended_data['item1'].map(smap)
