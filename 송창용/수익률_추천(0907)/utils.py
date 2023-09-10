@@ -77,7 +77,7 @@ class WarpSampler(object):
                                                       batch_size,
                                                       maxlen,
                                                       self.result_queue,
-                                                      32
+                                                      np.random.randint(2e9)
                                                       )))
             self.processors[-1].daemon = True
             self.processors[-1].start()
@@ -288,6 +288,9 @@ def recommend_items(model, dataset, args):
     [train, valid, test, usernum, itemnum,
     train_side, valid_side, test_side, item_side,
     umap, smap] = copy.deepcopy(dataset)
+
+    smap = {v: k for k, v in smap.items()}
+    umap = {v: k for k, v in umap.items()}
 
     # train, valid, test 합치기 
     for key, value in valid.items():
