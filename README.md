@@ -1,5 +1,5 @@
 
-# 미래에셋증권 빅데이터 페스티벌
+# 2024 관광데이터 활용 공모전
     
 <img src="https://www.2024tourapi.com/images/mtx.svg" width = "90%" height = "90%"> 
 
