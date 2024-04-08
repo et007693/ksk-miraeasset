@@ -1,8 +1,7 @@
 
 # 미래에셋증권 빅데이터 페스티벌
     
-    <img src="https://www.2024tourapi.com/images/mtx.svg" width = "90%" height = "90%"> 
-    <img src="https://d22mwcuo72mdnl.cloudfront.net/images/2023/top-1.png" width = "90%" height = "90%">
+<img src="https://www.2024tourapi.com/images/mtx.svg" width = "90%" height = "90%"> 
 
 ## 1. 주제
 
